@@ -1,0 +1,55 @@
+[
+  {
+    "fileName": "1.jpeg",
+    "altitude": -26.20,
+    "azimuth": 334.06
+  },
+  {
+    "fileName": "2.jpeg",
+    "isForDark": true,
+    "altitude": -26.20,
+    "azimuth": 6.56
+  },
+  {
+    "fileName": "3.jpeg",
+    "altitude": -26.20,
+    "azimuth": 37.45
+  },
+  {
+    "fileName": "4.jpeg",
+    "altitude": -26.20,
+    "azimuth": 72.71
+  },
+  {
+    "fileName": "5.jpeg",
+    "altitude": -26.20,
+    "azimuth": 104.94
+  },
+  {
+    "fileName": "6.jpeg",
+    "altitude": -26.20,
+    "azimuth": 162.44
+  },
+  {
+    "fileName": "7.jpeg",
+    "isForLight": true,
+    "altitude": -26.20,
+    "azimuth": 237.52
+  },
+  {
+    "fileName": "8.jpeg",
+    "isPrimary": true,
+    "altitude": -26.20,
+    "azimuth": 264.27
+  },
+  {
+    "fileName": "9.jpeg",
+    "altitude": -26.20,
+    "azimuth": 285.03
+  },
+  {
+    "fileName": "10.jpeg",
+    "altitude": -26.20,
+    "azimuth": 306.84
+  }
+]
